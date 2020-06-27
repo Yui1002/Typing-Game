@@ -1,0 +1,1 @@
+This is a simple typing game. if you click the screen, the game starts.
